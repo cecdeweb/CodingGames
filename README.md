@@ -1,6 +1,6 @@
 #Coding Games to Practice Your Java Skills
 
-Exercices sources provide to :
+Exercices sources provided by :
 codingame.com
 hackerrank.com
 codegym.cc
