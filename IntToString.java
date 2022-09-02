@@ -17,7 +17,6 @@ public class IntToString {
                 s = Integer.toString(n);
             }
 
-
             if (n == Integer.parseInt(s)) {
                 System.out.println("Good job");
             } else {
@@ -48,4 +47,3 @@ class DoNotTerminate {
         };
         System.setSecurityManager(securityManager);
     }
-}
